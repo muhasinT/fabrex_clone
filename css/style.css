@@ -1,0 +1,88 @@
+body{
+    font-family: 'Vazirmatn', sans-serif;
+    
+}
+.color-green{
+color: rgb(8, 193, 8);
+}
+.font_12{
+    font-size: 12px;
+}
+.font_15{
+    font-size: 15px;
+}
+.font-weight500{
+    font-weight:bold;
+    font-size: 25px;
+}
+.margin-10{
+    margin: -10px 0px 0px 40px;
+    font-size: 10px;
+}
+.logo-size{
+    font-size: 40px;
+    color: rgb(8, 193, 8);
+}
+.navbar-font{
+    font-weight: bold;
+}
+.nav-link:hover,.selected{
+    color: rgb(8, 193, 8) !important;
+}
+.badge_bg{
+  background-color: rgb(8, 193, 8);  
+  font-size: 10px;
+}
+.navbar-toogler:hover{
+    color:rgb(8, 193, 8)!important ;
+}
+.img-responsive{
+    width:100%;
+}
+.our-service:after{
+ content: "";
+ border-bottom: solid 2px rgb(8, 193, 8);
+ display: block;
+ width: 100px;  
+ height: 10px;
+ margin-left: auto;
+ margin-right: auto;
+ margin-bottom: 50px;
+
+}
+.our-srvice{
+    margin-top: 50px;
+    font-weight: bold;
+}
+.border{
+    border: 1px solid rgb(210, 213, 210);
+}
+.pencil:before{
+    font-size: 30px;
+    margin-left: auto;
+    margin-right: auto;
+    color:  rgb(8, 193, 8);
+    text-align: center;
+
+    
+}
+.color-hash{
+    color:  rgb(210, 215, 210);
+   
+}
+.text-alighn{
+    text-align: start;
+   
+}
+.footer{
+    content: "";
+    border-left:1px solid rgb(8, 193, 8) ;
+    padding-right: 120px;
+    font-weight: 300;
+    
+
+   
+}
+.color-blue{
+    color: rgb(8, 218, 15);
+}
